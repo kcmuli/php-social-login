@@ -36,7 +36,9 @@ class Twitch {
     }
 
     public function authorize() {
-        echo '<a href="'.$this->config->authorize_url.'?response_type=code&client_id='.$this->config->client_id.'&redirect_uri='.$this->config->redirect_uri.'&scope=user:read:email&state='.time().'">Login</>';
+        $url = $this->config->authorize_url.'?response_type=code&client_id='.$this->config->client_id.'&redirect_uri='.$this->config->redirect_uri.'&scope=user:read:email&state='.time();
+        header("Location: $url");
+//        echo '<a href="'.$url.'">Login</>';
     }
 
     public function getUser($access_token){
