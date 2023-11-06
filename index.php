@@ -8,6 +8,7 @@ use Platform\Social;
 
 // https://developers.google.com/identity/sign-in/web/sign-in?hl=tr
 // https://developers.google.com/api-client-library?hl=tr
+// https://www.webslesson.info/2019/09/how-to-make-login-with-google-account-using-php.html
 // https://developers.facebook.com/docs/graph-api/guides/our-sdks/
 
 require_once 'Factories/PlatformFactory.php';
