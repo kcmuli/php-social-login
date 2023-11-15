@@ -1,0 +1,24 @@
+[14-Nov-2023 10:03:45 Europe/Minsk] PHP Warning:  Undefined array key "platform" in /home/okesmezc/public_html/kullanici2/index.php on line 21
+[14-Nov-2023 10:03:45 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class "\Platform\" not found in /home/okesmezc/public_html/kullanici2/Factories/PlatformFactory.php:15
+Stack trace:
+#0 /home/okesmezc/public_html/kullanici2/index.php(23): Factory\PlatformFactory->authanticate()
+#1 {main}
+  thrown in /home/okesmezc/public_html/kullanici2/Factories/PlatformFactory.php on line 15
+[14-Nov-2023 10:03:46 Europe/Minsk] PHP Warning:  Undefined array key "platform" in /home/okesmezc/public_html/kullanici2/index.php on line 21
+[14-Nov-2023 10:03:46 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class "\Platform\" not found in /home/okesmezc/public_html/kullanici2/Factories/PlatformFactory.php:15
+Stack trace:
+#0 /home/okesmezc/public_html/kullanici2/index.php(23): Factory\PlatformFactory->authanticate()
+#1 {main}
+  thrown in /home/okesmezc/public_html/kullanici2/Factories/PlatformFactory.php on line 15
+[14-Nov-2023 10:03:52 Europe/Minsk] PHP Warning:  Undefined array key "platform" in /home/okesmezc/public_html/kullanici2/index.php on line 21
+[14-Nov-2023 10:03:52 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class "\Platform\" not found in /home/okesmezc/public_html/kullanici2/Factories/PlatformFactory.php:15
+Stack trace:
+#0 /home/okesmezc/public_html/kullanici2/index.php(23): Factory\PlatformFactory->authanticate()
+#1 {main}
+  thrown in /home/okesmezc/public_html/kullanici2/Factories/PlatformFactory.php on line 15
+[14-Nov-2023 10:04:05 Europe/Minsk] PHP Warning:  Undefined array key "platform" in /home/okesmezc/public_html/kullanici2/index.php on line 21
+[14-Nov-2023 10:04:05 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class "\Platform\" not found in /home/okesmezc/public_html/kullanici2/Factories/PlatformFactory.php:15
+Stack trace:
+#0 /home/okesmezc/public_html/kullanici2/index.php(23): Factory\PlatformFactory->authanticate()
+#1 {main}
+  thrown in /home/okesmezc/public_html/kullanici2/Factories/PlatformFactory.php on line 15
